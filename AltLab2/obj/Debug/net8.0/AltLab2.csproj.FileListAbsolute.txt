@@ -1,0 +1,14 @@
+C:\Users\bsimm\Desktop\OOP2 VS\AltLab2\bin\Debug\net8.0\AltLab2.exe
+C:\Users\bsimm\Desktop\OOP2 VS\AltLab2\bin\Debug\net8.0\AltLab2.deps.json
+C:\Users\bsimm\Desktop\OOP2 VS\AltLab2\bin\Debug\net8.0\AltLab2.runtimeconfig.json
+C:\Users\bsimm\Desktop\OOP2 VS\AltLab2\bin\Debug\net8.0\AltLab2.dll
+C:\Users\bsimm\Desktop\OOP2 VS\AltLab2\bin\Debug\net8.0\AltLab2.pdb
+C:\Users\bsimm\Desktop\OOP2 VS\AltLab2\obj\Debug\net8.0\AltLab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bsimm\Desktop\OOP2 VS\AltLab2\obj\Debug\net8.0\AltLab2.AssemblyInfoInputs.cache
+C:\Users\bsimm\Desktop\OOP2 VS\AltLab2\obj\Debug\net8.0\AltLab2.AssemblyInfo.cs
+C:\Users\bsimm\Desktop\OOP2 VS\AltLab2\obj\Debug\net8.0\AltLab2.csproj.CoreCompileInputs.cache
+C:\Users\bsimm\Desktop\OOP2 VS\AltLab2\obj\Debug\net8.0\AltLab2.dll
+C:\Users\bsimm\Desktop\OOP2 VS\AltLab2\obj\Debug\net8.0\refint\AltLab2.dll
+C:\Users\bsimm\Desktop\OOP2 VS\AltLab2\obj\Debug\net8.0\AltLab2.pdb
+C:\Users\bsimm\Desktop\OOP2 VS\AltLab2\obj\Debug\net8.0\AltLab2.genruntimeconfig.cache
+C:\Users\bsimm\Desktop\OOP2 VS\AltLab2\obj\Debug\net8.0\ref\AltLab2.dll
